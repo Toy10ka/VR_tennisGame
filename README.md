@@ -15,6 +15,7 @@ Out に触れるとボールは初期位置へリセットされ、演出が2秒
 
 ## 📂 プロジェクト構成 / Project Structure
 
+```text
 Assets/
 ├─ Scenes/ … メインシーン（例: ZeroGravityTennis.unity）
 ├─ Scripts/ … ゲームロジック（ZEROGRAVITYTENNIS など）
@@ -22,9 +23,10 @@ Assets/
 ├─ XRI/ … XRI 設定
 ├─ Samples/ … XR Interaction Toolkit / Starter Assets /
 ├─ Art/ … モデルや素材
-ProjectSettings/
-Packages/
-
+├─ ProjectSettings/
+├─ Packages/
+└─ README.md … このファイル
+```
 ---
 
 ## 📦 依存ソフト / Requirements
