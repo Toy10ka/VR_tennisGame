@@ -5,7 +5,7 @@ Goalするごとにボールの速度は大きくなり、難易度が上がり�
 Out に触れるとボールは初期位置へリセットされ、演出・効果音が再生されます。
 
 ![](Demo/image.png) 
-▶️ **デモ動画**: [demo.mp4](Demo/video.mp4) 
+▶️ **デモ動画**: (Demo/video.mp4) 
 ---
 
 ## 🎮 遊び方 / How to Play
