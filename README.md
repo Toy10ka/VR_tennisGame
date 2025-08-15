@@ -1,4 +1,4 @@
-# 🎾 VR Zero Gravity Tennis (仮)
+# 🎾 VR Zero Gravity Tennis 
 
 無重力空間のコートで、ボールをラケットで弾き、Goal に当ててクリアを目指す VR ゲームです。  
 Out に触れるとボールは初期位置へリセットされ、演出が2秒間表示されます。
