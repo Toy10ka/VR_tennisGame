@@ -34,7 +34,7 @@ Assets/
 - Unity 6.0 (6000.0.50f1)
 - XR Interaction Toolkit 3.0.8+（Starter Assets 推奨）
 - XR Plugin Management（OpenXR を有効）
-- 
+
 ---
 
 ## 🛠 セットアップ / Setup
